@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My 24/7 Site</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 50px; }
+        h1 { color: #2ea44f; }
+    </style>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>This website is running 24/7 on GitHub Pages.</p>
+</body>
+</html>
